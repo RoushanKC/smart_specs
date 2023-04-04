@@ -1,5 +1,9 @@
-# smart_specs
+# SMART_SPECS
 This project is an aid to the blind. Till date there has been not much technological advancement in the way the blind navigate. So I have tried using deep learning particularly CNN so that they can get some external help to navigate through the streets.
+<br>
+<br>
+![SMART_SPECTACLES](https://user-images.githubusercontent.com/54498757/229739684-8a0fe594-a0ec-4613-9fe0-cb4e54fc7175.png)
+
 
 # The Approach 
 ## Collecting Training Data
@@ -20,8 +24,8 @@ This is achieved using Dlibs face detector.(trying to implement face recognition
 
 ## Requirements
 0. Python 3.x
-1. <a href="https://tensorflow.org">Tensorflow 1.5</a>
-2. <a href="https://keras.io">Keras</a>
+1. Tensorflow
+2. Keras
 3. OpenCV 3.4(for loading,resizing images)
 4. h5py(for saving trained model)
 5. pyttsx3
