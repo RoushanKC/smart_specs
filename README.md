@@ -45,3 +45,7 @@ This is achieved using Dlibs face detector.(trying to implement face recognition
 To train your own classifier you need to gather data for all three type(.i.e images from left side of road, right side, and center region of the road) and then run model_trainer.py(you need to change the directories of images in model_trainer.py first).I used around 10000 images.
 It took me about 30 minutes to train each network.<br>
 
+##  Demo
+Here is link to a demo video ,hope you'll like it!
+
+[Video](https://drive.google.com/file/d/1SmLxZ6taedRzRqrw7yJcFXPHzyReAKPZ/view?usp=share_link).
